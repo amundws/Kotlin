@@ -1,0 +1,13 @@
+FORSLAG TIL APP:
+- App for å lagre matoppskrifter.
+
+SPEC:
+- Konto.
+- Lister med matoppskrifter.
+- En oppskrift har: 
+	- lagetid
+	- ingredienser: liste med dictionary. Dict har ingrediens, benevning, mangde for 1 porsjon.
+	- antall porsjoner.
+	- steg: liste med tekst.
+- lagre til fil/db.
+
